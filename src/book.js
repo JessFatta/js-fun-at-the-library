@@ -1,6 +1,16 @@
-function createTitle() {
-  
+
+//
+// function createTitle() {
+//
+// }
+
+
+function createTitle(bookIdea) {
+  return `The ${bookIdea}`;
 }
+createTitle();
+
+
 
 module.exports = {
   createTitle,
