@@ -1,10 +1,3 @@
-
-//
-// function createTitle() {
-//
-// }
-
-
 function createTitle(bookIdea) {
   return `The ${bookIdea}`;
 }
